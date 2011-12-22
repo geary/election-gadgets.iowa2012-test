@@ -39,7 +39,7 @@ var candidates = [
 	{ color: '#84DD6C', id: 'Johnson', firstName: 'Gary', lastName: 'Johnson', fullName: 'Gary Johnson' },
 	{ color: '#3369E8', id: 'Perry', firstName: 'Rick', lastName: 'Perry', fullName: 'Rick Perry' },
 	{ color: '#EEB211', id: 'Romney', firstName: 'Mitt', lastName: 'Romney', fullName: 'Mitt Romney' },
-	{ color: '#AADC76', id: 'Santorum', firstName: 'Rick', lastName: 'Santorum', fullName: 'Rick Santorum' }
+	{ color: '#AA0C76', id: 'Santorum', firstName: 'Rick', lastName: 'Santorum', fullName: 'Rick Santorum' }
 ];
 
 
